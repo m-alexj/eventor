@@ -1,0 +1,1 @@
+1:he:PER:ATTACKER	0:blow:TRIGC:ATTACK!	1>0>nsubj,0>0>root

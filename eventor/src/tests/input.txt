@@ -1,0 +1,2 @@
+1:he:PER:ATTACKER	2:White House:LOC:PLACE	0:blow:TRIGC:ATTACK!	2>0>dobj,1>0>nsubj,0>0>root
+0:flying:NULL:NULL	1:bankruptcy:TRIGC:DECLARE-BANKRUPTCY!	2:usairways:ORG:ORG	3:way:NULL:NULL	4:its:ORG:NULL	1>0>nmod:out_of,2>0>nsubj,3>0>dobj,4>3>nmod:poss,0>0>root
