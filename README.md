@@ -17,4 +17,6 @@ The code requires training, development, and test data in a very specific format
 
 The experiments in the thesis produced five models for each combination of syntax encoder (no syntax, Graph Convolutions, tree-shaped LSTMs), repeated negative undersampling probability (0.0, 0.5, 0.9) and data split (standard split and two new train/dev/test splits which follow the genre distribution in ACE 2005, in contrast to the standard split which uses only newswire articles in the test set). In total, the experiments produced 500 GB of models.
 
-Part of the release is the five models (bagging+majority voting for the five predictions) produced for Graph Convolutions (GCN) and negative undersampling probability 0.9 trained on the standard ACE split. However, due to size limitations, I cannot provide the models here on Github. They will be stored somewhere else, most probably on heiDATA, the data archiving system of Heidelberg University.
+Part of the release is the five models (bagging+majority voting for the five predictions) produced for Graph Convolutions (GCN) and negative undersampling probability 0.9 trained on the standard ACE split. However, due to size limitations, I cannot provide the models on Github. They will be stored somewhere else, most probably on heiDATA, the data archiving system of Heidelberg University.
+
+This repository will be published on heiDATA as well as on Github (https://github.com/m-alexj/eventor)
